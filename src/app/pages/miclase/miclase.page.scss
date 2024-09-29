@@ -96,30 +96,7 @@ ion-content {
     font-size: large;
   }
   
-  /*Clase para el Fondo Desenfocado y el Logo*/
-  .logoInicio {
-    background-image: url('../../../assets/img/paoDesenfocado.jpg');
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    text-align: center;
-    padding: 20px;
-    flex-wrap: nowrap;
   
-    h1 {
-      position: relative;
-      color: white;
-      z-index: 1;
-      font-size: x-large;
-    }
-  
-    .logo {
-      position: relative;
-      width: 600px;
-      z-index: 1;
-      margin: 20px 0;
-    }
-  }
 
 
 
